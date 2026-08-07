@@ -1,2 +1,2 @@
-# Flax_Apps
+# **Flax Apps**
 All Apps Is Here Bro
